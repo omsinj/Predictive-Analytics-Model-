@@ -13,4 +13,24 @@ This project implements a predictive analytics model tailored for tactical intel
    ```bash
    git clone https://github.com/yourusername/predictive-analytics-model.git
    
+2. Navigate to the project directory
+   cd predictive-analytics-model
 
+3. Install required packages:
+pip install -r requirements.txt
+
+## Usage
+4. Preprocess the dataset:
+python src/data_preprocessing.py
+
+5. Train the model:
+python src/train_model.py
+
+6. Evaluate the model:
+python src/test_model.py
+
+7.Predict new outcomes:
+python src/predict.py
+
+Contributing
+Feel free to open issues or submit pull requests to contribute.
