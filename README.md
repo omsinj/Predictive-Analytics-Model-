@@ -12,3 +12,5 @@ This project implements a predictive analytics model tailored for tactical intel
 1. Clone this repository:
    ```bash
    git clone https://github.com/yourusername/predictive-analytics-model.git
+   
+
